@@ -15,5 +15,5 @@ the business card compactness.
 
 Pictures:
 
-![front side](https://github.com/dadamkovic/business_card/blob/dev/pics/bussiness_card_front.png?raw=true)
-![back side](https://github.com/dadamkovic/business_card/blob/dev/pics/bussiness_card_back.png?raw=true)
+![front side](https://github.com/dadamkovic/business_card/blob/dev/pics/business_card_front.png?raw=true)
+![back side](https://github.com/dadamkovic/business_card/blob/dev/pics/business_card_back.png?raw=true)
