@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "User_uC")(type "KiCad")(uri "${KIPRJMOD}/libraries/User_uC.pretty")(options "")(descr ""))
+  (lib (name "User_0805")(type "KiCad")(uri "${KIPRJMOD}/libraries/User_0805.pretty")(options "")(descr ""))
+  (lib (name "User_PCB_Connector")(type "KiCad")(uri "${KIPRJMOD}/libraries/User_PCB_Connector.pretty")(options "")(descr ""))
+  (lib (name "User_Buzzer")(type "KiCad")(uri "${KIPRJMOD}/libraries/User_Buzzer.pretty")(options "")(descr ""))
+  (lib (name "User_Regulator")(type "KiCad")(uri "${KIPRJMOD}/libraries/User_Regulator.pretty")(options "")(descr ""))
+)
