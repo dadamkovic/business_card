@@ -7,7 +7,7 @@ programmed with a few simple games. BOM cost as of version 0.1 is ~6$.
 Includes: 
 - 5 LEDs
 - buzzer
-- STM32F042F4Px (USB communication)
+- STM32F042F6Px (USB communication)
 
 PCB has cutout for components that are inteded to be mounted 'body in'
 to decrease the thickness of the PCB (1.2mm PCB used), to get close to
