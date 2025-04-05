@@ -7,7 +7,7 @@
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2023 STMicroelectronics.
+  * Copyright (c) 2025 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -66,7 +66,7 @@
 /*---------- -----------*/
 #define USBD_MAX_NUM_CONFIGURATION     1
 /*---------- -----------*/
-#define USBD_MAX_STR_DESC_SIZ     32
+#define USBD_MAX_STR_DESC_SIZ     64
 /*---------- -----------*/
 #define USBD_DEBUG_LEVEL     0
 /*---------- -----------*/

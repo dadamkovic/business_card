@@ -1,0 +1,5 @@
+D:/daniel/projects/business_card_rework/business_card/build/MinSizeRel/CMakeFiles/business_card.dir
+D:/daniel/projects/business_card_rework/business_card/build/MinSizeRel/CMakeFiles/edit_cache.dir
+D:/daniel/projects/business_card_rework/business_card/build/MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/daniel/projects/business_card_rework/business_card/build/MinSizeRel/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/daniel/projects/business_card_rework/business_card/build/MinSizeRel/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
